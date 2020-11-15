@@ -7,6 +7,6 @@
 
 import Foundation
 
-enum AppError {
+enum AppError :Error {
     case apperror
 }
